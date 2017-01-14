@@ -3,8 +3,6 @@
 Capitalization matters:
  * Capitalize variable/function means visible outside (public)
  * Lowercase variable/function means not visible outside (private)
- 
-File package name is the **contained folder name**
 
 To import our packages we need to use the `Fully qualified name` as follow:
 
